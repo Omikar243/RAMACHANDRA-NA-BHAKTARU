@@ -1,4 +1,4 @@
-# College Admission Prediction using ARIMA and LSTM Models
+# SMVITM Admission Prediction using ARIMA and LSTM Models
 
 Welcome to our project on predicting SMVITM admissions using time series analysis with ARIMA and LSTM models. This project is a collaborative effort by our team to leverage the power of machine learning and statistical methods to forecast the number of college admissions.
 
